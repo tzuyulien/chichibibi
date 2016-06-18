@@ -11,4 +11,4 @@ NCCU DCT Advanced Computer Programming Final Project.
 小雞逼逼互動玩偶
 
 
-![alt tag](https://raw.githubusercontent.com/tzuyulien/chichibibi/master/1.jpg =100x)
+![alt tag](https://raw.githubusercontent.com/tzuyulien/chichibibi/master/1.jpg)
