@@ -1,6 +1,6 @@
 # chichibibi
 It's a singing chicken stuffed doll.
-Powered with Arduino, express.js, johnny-five.js, node-pixel.js, HTML.
+Powered with [Arduino](https://www.arduino.cc/), [express.js](http://expressjs.com/), [johnny-five.js](http://johnny-five.io/), [node-pixel.js](https://github.com/ajfisher/node-pixel) and HTML/CSS/javascript.
 When you using the interface to play with the Chicken, Chicken will sing songs and have some eye contact with you.
 Thouth it's now a little scary prototype.
 
