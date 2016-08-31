@@ -10,6 +10,6 @@ NCCU DCT Advanced Computer Programming Final Project.
 政大數位學程 進階程式設計課程 期末專案
 小雞逼逼互動玩偶
 
-[期末報告影片](https://www.youtube.com/watch?v=m91Bfp0p6q8)
+[Demo影片](https://www.youtube.com/watch?v=m91Bfp0p6q8)
 
 ![alt tag](https://raw.githubusercontent.com/tzuyulien/chichibibi/master/1.jpg)
